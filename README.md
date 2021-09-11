@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Kiran Dash. Frontend Developer at Finxflo
+- 👀 I’m interested in everything React
+- 🌱 I’m currently learning data visualisation
